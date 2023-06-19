@@ -1,17 +1,15 @@
-/*  your css code here. If applicable */
 body{
     background-color: #cccccc;
     text-align: center;
 }
 .player_one
 {
-    padding-left: 20px;
+   
     background-color: white;
     text-align: left;
     border: 1px solid black;
     border-radius: 5px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    
     
 }
 .song_links
