@@ -12,6 +12,10 @@ body{
     
     
 }
+li
+{
+	 list-style-type: none;
+}
 .song_links
 {
     text-decoration: none;
